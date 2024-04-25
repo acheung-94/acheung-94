@@ -1,7 +1,8 @@
 ### Hi, I'm Andrea. ✨
-**( Full Stack Engineer || Classical Pianist || Herder of Many Cats )** {
+const Andrea = **( Full Stack Engineer || Classical Pianist || Herder of Many Cats )** => {
    
 I'm passionate about building meaningful, pragmatic, and intuitive applications, and striving to improve solutions in the quest for excellence. I left a career in veterinary medicine to pursue new challenges in the world of tech. 
+
 #### 💬 Ask me about ...
 Any of my projects below! Built on varying combinations of Ruby, Rails, JavaScript, React/Redux, Node.js, Express.js, MongoDB, PostgreSQL, and *lots of 💖* during my 16 weeks at App Academy. 
 
